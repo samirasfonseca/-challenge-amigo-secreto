@@ -32,3 +32,7 @@ Este é um projeto simples em HTML, CSS e JavaScript para adicionar amigos a uma
 ├── style.css # Estilos da aplicação
 ├── app.js # Lógica JavaScript
 ├── assets/ # Imagens e ícones
+
+## 🖥️ Visualização
+
+[🚀 Meu Projeto](https://samirasfonseca.github.io/-challenge-amigo-secreto/)
